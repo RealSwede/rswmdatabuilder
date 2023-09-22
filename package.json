@@ -1,5 +1,6 @@
 {
   "name": "rswmdatabuilder",
+  "homepage": "https://realswede.github.io/rswmdatabuilder",
   "private": true,
   "version": "0.0.0",
   "type": "module",
